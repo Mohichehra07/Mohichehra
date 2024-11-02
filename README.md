@@ -1,4 +1,4 @@
--👋 Hi, I’m @Mohichehra07
+-👋 Hi, I’m @Mohichehra
 -👀 I’m interested in IT and business
 -🌱 I’m currently learning Frontend 
 -💞 I’m looking to collaborate with Frontend
